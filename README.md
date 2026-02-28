@@ -14,12 +14,10 @@ I enjoy solving real-world problems using clean architecture, optimized algorith
 
 ## 🛠️ Technical Skills
 
-- **Languages:** C++, Java, Python, JavaScript
-- **Frontend:** React, HTML, CSS
-- **Backend:** Node.js, Express
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, GitHub, Docker
-- **Core Concepts:** DSA, OOPS, DBMS, OS, CN
+- **Languages:** C++, Java, Python 
+- **Database:** MongoDB, MySQL, Microsoft SQL
+- **Tools:**  GitHub, Power BI, Tableau
+- **Core Concepts:** DSA, OOPS, DBMS, OS
 
 ---
 
